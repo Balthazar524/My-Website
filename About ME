@@ -1,6 +1,6 @@
 <html>
-    <h1>
-        Hey, I'm Jesse
+    <h1 style="color: blue; text-align: center;">
+        Thank you for visiting my webpage. 
     </h1>
     <body>
         <h2>About me</h2>
@@ -8,8 +8,9 @@
             I enjoy coding.
         </p>
         <h2>What I'm working on</h2>
-        <p>
-            I'm working becoming a network enginner.
+        <p syle=color green;>
+            I'm working becoming a network enginner. As you can tell it is a work in progress. 
+I just wanted to showcase my ablilites and potential. So, enough of me rambling enjoy reading about my life's journey.
         </p>
     </body>
 </html>
